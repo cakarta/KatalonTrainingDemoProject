@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_org.openqa.selenium</name>
+   <tag></tag>
+   <elementGuidId>e82fe6e1-01c0-42b3-89d2-1f2872dd51df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul[title=&quot;Packages&quot;] > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Packages'])[1]/following::li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>677c6779-8d45-4113-a427-3b719e1ae1af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>org.openqa.selenium</value>
+      <webElementGuid>fdc67270-3125-4d3d-9e16-a6acbf76485a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[@class=&quot;indexContainer&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>0cd729c4-37f3-48a4-818a-5c091400a75a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Overview/iframe_packageListFrame</value>
+      <webElementGuid>7b297f6f-b97c-4b6b-86a0-3b0961b972c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Packages'])[1]/following::li[1]</value>
+      <webElementGuid>2fa5c9b5-a9b8-4683-bb73-4bf440f02b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Classes'])[1]/following::li[1]</value>
+      <webElementGuid>c159b5b8-d876-4c83-8f5f-64969a419699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org.openqa.selenium.bidi'])[1]/preceding::li[1]</value>
+      <webElementGuid>dadb0995-5bd3-4a5b-9243-027c5f2c1b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/ul/li</value>
+      <webElementGuid>f37cd772-b0c1-4847-bf0b-4872d23dd2dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'org.openqa.selenium' or . = 'org.openqa.selenium')]</value>
+      <webElementGuid>0e3805ff-e83b-4108-8333-6552a26bb761</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
